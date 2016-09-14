@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentDemo</string>
+
+    <!-- 选项卡文字 -->
+	<string name="tab1">我是1</string>
+	<string name="tab2">我是2</string>
+	<string name="tab3">我是3</string>
+	<string name="tab4">我是4</string>
+</resources>
